@@ -40,7 +40,7 @@ dog.addImage(dogImg)
 
 if(keyWentDown(UP_ARROW)){
 
-   dog.addImage(dogimg)
+   dog.addImage(dogImg)
   
   }
 
